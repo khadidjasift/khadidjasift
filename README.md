@@ -12,7 +12,7 @@ I'm a Master's student in Vision and Intelligent Machines, passionate about AI a
 
 ### Connect with me:
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadidja boudjoras/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadidja-boudjoras)
 
 ### Languages and Tools:
 
