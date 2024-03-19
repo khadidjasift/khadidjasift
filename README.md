@@ -6,7 +6,7 @@ I'm a Master's student in Vision and Intelligent Machines, passionate about AI a
 - 🌱 I’m currently learning more about deep learning techniques in computer vision, focusing on applications in medical imaging and OCR.
 - 👯 I’m looking to collaborate on open-source projects related to AI in healthcare.
 - 🤔 I’m looking for help with finding a challenging internship in the field of medical imaging or AI.
-- 💬 Ask me about computer vision, YOLOv8, R-CNN, Web Development (Django, HTML/CSS, JavaScript, Bootstrap).
+- 💬 Ask me about computer vision, YOLOv8, R-CNN and Web Development (Django, HTML/CSS, JavaScript, Bootstrap).
 - 📫 How to reach me: [khadidjaboudjoras@yahoo.fr](mailto:khadidjaboudjoras@yahoo.fr)
 - ⚡ Fun fact: I presented my bachelor's project at a conference under the auspices of UNESCO.
 
@@ -21,3 +21,10 @@ I'm a Master's student in Vision and Intelligent Machines, passionate about AI a
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
